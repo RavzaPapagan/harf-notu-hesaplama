@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\bin\Debug\soru2harfnotuhesaplama.exe.config
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\obj\Debug\soru2harfnotuhesaplama.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\obj\Debug\soru2harfnotuhesaplama.Form1.resources
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\obj\Debug\soru2harfnotuhesaplama.Properties.Resources.resources
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\obj\Debug\soru2harfnotuhesaplama.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\bin\Debug\soru2harfnotuhesaplama.exe
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\bin\Debug\soru2harfnotuhesaplama.pdb
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\obj\Debug\soru2harfnotuhesaplama.exe
+C:\Users\hp\Desktop\soru2harfnotuhesaplama\soru2harfnotuhesaplama\obj\Debug\soru2harfnotuhesaplama.pdb
